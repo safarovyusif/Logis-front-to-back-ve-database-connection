@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Desktop\\ClassWorkFrontToBack-main\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
+    "C:\\Users\\Birinci Novbe\\Desktop\\ClassWork\\FrontToBack\\FrontToBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Desktop\\ClassWorkFrontToBack-main\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
+    "C:\\Users\\Birinci Novbe\\Desktop\\ClassWork\\FrontToBack\\FrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Desktop\\ClassWorkFrontToBack-main\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectUniqueName": "C:\\Users\\Birinci Novbe\\Desktop\\ClassWork\\FrontToBack\\FrontToBack.csproj",
         "projectName": "FrontToBack",
-        "projectPath": "C:\\Users\\User\\Desktop\\ClassWorkFrontToBack-main\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
-        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Desktop\\ClassWorkFrontToBack-main\\FrontToBack\\FrontToBack\\obj\\",
+        "projectPath": "C:\\Users\\Birinci Novbe\\Desktop\\ClassWork\\FrontToBack\\FrontToBack.csproj",
+        "packagesPath": "C:\\Users\\Birinci Novbe\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Birinci Novbe\\Desktop\\ClassWork\\FrontToBack\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Birinci Novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "10.0.200"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -69,6 +59,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.20, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.12, )"
             }
           },
           "imports": [
@@ -90,7 +84,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
